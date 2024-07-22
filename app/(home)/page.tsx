@@ -12,7 +12,7 @@ export default function Home() {
 
                 className={cn(buttonVariants({
                     variant: "outline"
-                }), "rounded-xl flex items-center gap-x-2 font-bold w-[130px]")}
+                }), "rounded-xl flex items-center gap-x-2 w-[130px]")}
             >
                 <Github /> Github
             </Link>
