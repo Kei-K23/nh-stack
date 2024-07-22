@@ -13,12 +13,12 @@ const Navbar = () => {
                     href={"/"}
                     className=" flex items-center gap-2 bg-gradient-to-r from-blue-500 via-teal-500 to-sky-500 bg-clip-text text-transparent text-lg md:text-2xl font-semibold"
                 >
-                    NHTT
+                    NH
                 </Link>
                 <div className="flex items-center gap-4">
                     <Link
                         href={"https://github.com/Kei-K23/nhtt-stack"}
-
+                        target="_blank"
                         className={cn(buttonVariants({
                             variant: "outline"
                         }), "rounded-xl flex items-center gap-x-2")}

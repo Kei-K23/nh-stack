@@ -6,8 +6,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NHTT-Stack",
-  description: "Create a full-stack, end-to-end type-safe, NextJS web application with NHTT-Stack",
+  title: "NH",
+  description: "Create a full-stack, end-to-end type-safe, NextJS web application with NH",
 };
 
 export default function RootLayout({
